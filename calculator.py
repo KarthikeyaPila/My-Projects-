@@ -1,6 +1,6 @@
 # Create a calculator 
-user_input1 = int(input("number 1: "))
-user_input2 = int(input("number 2: "))
+user_input1 = float(input("number 1: "))
+user_input2 = float(input("number 2: "))
 operation = input("What operation do you want to do? ")
 
 if operation == "+" or operation == "add":
